@@ -8,11 +8,7 @@ tags:
 ---
 wow
 
-
-
-*cool*
-
-
+#### *cool*
 
 ![ya](/static/img/cypress-io-logo-round-flat.svg)
 
